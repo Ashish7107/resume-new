@@ -21,7 +21,7 @@ const Projects = ({ subHeading }: Props) => {
               descriptions={[
                 "Made a virtual lab for Digital Communication lab experiment",
                 "Features integrated in the virtual lab included subjective descriptions, quizzes, circuit design and components with dynamic graphs",
-                "Skills: HTML CSS and JavaScrip",
+                "Skills: HTML CSS and JavaScript",
               ]}
               img={"../src/assets/virtual_lab.png"}
             />
