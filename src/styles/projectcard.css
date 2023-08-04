@@ -1,0 +1,10 @@
+.overlay-card {
+  position: relative; /* To position the overlay content */
+}
+.list {
+  font-size: 12px;
+}
+.card {
+  color: #ffff;
+  background-color: transparent;
+}
