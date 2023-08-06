@@ -48,7 +48,7 @@ function App() {
 
             <Skills skills={skills} />
             <Achievments achievments={achievments} />
-            <h3 className="education_heading">Education</h3>
+            <h5 className="education_heading">Education</h5>
             <Education
               heading={
                 "Dr D.Y Patil Institute of Technology,Pimpri,Pune(411018)"

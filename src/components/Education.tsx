@@ -11,7 +11,7 @@ const Education = ({ heading, degree, year, percentage }: Props) => {
     <>
       <div
         className="card border-info mb-3 education"
-        style={{ color: "#006699", backgroundColor: "#b8a9c9" }}
+        style={{ color: "#006699" }}
       >
         <div className="card-body">
           <p>{heading}</p>

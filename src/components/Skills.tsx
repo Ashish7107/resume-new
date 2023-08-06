@@ -7,7 +7,7 @@ const Skills = ({ skills }: Props) => {
   return (
     <>
       <div className="skills">
-        <h3>Skills</h3>
+        <h5>Skills</h5>
         <ul>
           {skills.map((skill, index) => (
             <li key={index}>{skill}</li>

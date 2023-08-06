@@ -5,7 +5,7 @@ interface Props {
 const Achievments = ({ achievments }: Props) => {
   return (
     <>
-      <h3>Achievments</h3>
+      <h5>Achievments</h5>
       <ul>
         {achievments.map((achievment, index) => (
           <li key={index}>{achievment}</li>

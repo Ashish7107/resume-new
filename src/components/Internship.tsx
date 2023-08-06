@@ -9,7 +9,7 @@ const Internship = ({ subHeading }: Props) => {
       <div className="container ">
         <div className="row justify-content-center">
           <div className="col-12 g-2">
-            <h2>{subHeading}</h2>
+            <h4>{subHeading}</h4>
           </div>
           <div className="col-md-6 g-2 ">
             <ProjectCard

@@ -9,14 +9,19 @@ const Name = () => {
     <>
       <div className="container Name">
         <div className="row">
-          <h4 className="col-11">Ashish Kumar Yadav</h4>
-          <a
-            className="col-1"
-            href="https://www.linkedin.com/in/ashish--kumar--yadav"
-            target={"blank"}
-          >
-            <i className="fab fa-linkedin "></i>
-          </a>
+          <div className="     col-12  ">
+            <h2>
+              <b>Ashish Kumar Yadav</b>
+              <a
+                className=" linkedin"
+                href="https://www.linkedin.com/in/ashish--kumar--yadav"
+                target={"blank"}
+                style={{ paddingLeft: "10px" }}
+              >
+                <i className="fab fa-linkedin "></i>
+              </a>
+            </h2>
+          </div>
 
           <p>Electronics and Telecommunication Engineer(2019-2023)</p>
         </div>

@@ -9,7 +9,7 @@ const Projects = ({ subHeading }: Props) => {
       <div className="container projects">
         <div className="row justify-content-center">
           <div className="col-12 ">
-            <h2>{subHeading}</h2>
+            <h4>{subHeading}</h4>
           </div>
           <div className="col-lg-6 g-3 ">
             <ProjectCard
