@@ -31,8 +31,8 @@ const Projects = ({ subHeading }: Props) => {
               role={
                 "https://docs.google.com/document/d/e/2PACX-1vQGpulIH-Vin9zvVYfQdwzipb1W8gprNqfIHWOUPbFRxqvv7Do8A41McOcKuJW3Bw5Yqo2-UA4fiaGX/pub"
               }
-              heading={"WebManager"}
-              location={"Pune"}
+              heading={"Sign language to Speech "}
+              location={"Pune 2023"}
               descriptions={[
                 "Built gloves for deaf and dumb people for easy communication using sign language. The signs were interpreted by flex sensors and displayed on an Android app in the form of text and speech.",
                 "Skills: Arduino, Electronic circuit design and Bluetooth",
@@ -44,7 +44,7 @@ const Projects = ({ subHeading }: Props) => {
             <ProjectCard
               role={"https://game-hub-gray-seven.vercel.app/"}
               heading={"FrontEnd Development"}
-              location={"Pune"}
+              location={"Pune 2023"}
               descriptions={[
                 "Game-hub a clone of rawg.io.",
                 "Using Axios for backend handling and making a reponsive game searching website.",
