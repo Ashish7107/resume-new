@@ -1,5 +1,8 @@
 import "../styles/projects.css";
 import ProjectCard from "./ProjectCard";
+import virtual_lab from "../assets/virtual_lab.png";
+import gloves from "../assets/gloves.png";
+import frontend from "../assets/frontend.png";
 interface Props {
   subHeading: string;
 }
@@ -23,7 +26,7 @@ const Projects = ({ subHeading }: Props) => {
                 "Features integrated in the virtual lab included subjective descriptions, quizzes, circuit design and components with dynamic graphs",
                 "Skills: HTML CSS and JavaScript",
               ]}
-              img={"../src/assets/virtual_lab.png"}
+              img={virtual_lab}
             />
           </div>
           <div className="col-lg-6 g-3 ">
@@ -37,7 +40,7 @@ const Projects = ({ subHeading }: Props) => {
                 "Built gloves for deaf and dumb people for easy communication using sign language. The signs were interpreted by flex sensors and displayed on an Android app in the form of text and speech.",
                 "Skills: Arduino, Electronic circuit design and Bluetooth",
               ]}
-              img={"../src/assets/gloves.png"}
+              img={gloves}
             />
           </div>
           <div className="col-lg-6 g-3  ">
@@ -51,7 +54,7 @@ const Projects = ({ subHeading }: Props) => {
                 "Impelmenting the concept of state handling and hooks.",
                 "Skills:ReactJs,Typescript.",
               ]}
-              img={"../src/assets/frontend.jpg"}
+              img={frontend}
             />
           </div>
         </div>

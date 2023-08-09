@@ -1,4 +1,5 @@
 import "../styles/projectcard.css";
+
 interface Props {
   img: string;
   heading: string;

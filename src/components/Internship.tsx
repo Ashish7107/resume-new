@@ -1,5 +1,7 @@
 import ProjectCard from "./ProjectCard";
 import "../styles/internship.css";
+import gypsyguy from "../assets/gypsyguy.png";
+import skates from "../assets/skates.png";
 interface Props {
   subHeading: string;
 }
@@ -21,12 +23,12 @@ const Internship = ({ subHeading }: Props) => {
                 " Managing social media platforms content and queries",
                 "Skills: HTML and CSS,JavaScript",
               ]}
-              img={"../src/assets/gypsyguy.png"}
+              img={gypsyguy}
             />
           </div>
           <div className="col-md-6 g-2">
             <ProjectCard
-              img={"../src/assets/skates.png"}
+              img={skates}
               heading={"DYPIT - Software Engineer"}
               location={"Pune 2021-22"}
               descriptions={[
