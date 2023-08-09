@@ -51,7 +51,7 @@ const Projects = ({ subHeading }: Props) => {
                 "Impelmenting the concept of state handling and hooks.",
                 "Skills:ReactJs,Typescript.",
               ]}
-              img={"../src/assets/frontend.png"}
+              img={"../src/assets/frontend.jpg"}
             />
           </div>
         </div>
