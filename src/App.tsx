@@ -51,20 +51,20 @@ function App() {
             <h5 className="education_heading">Education</h5>
             <Education
               heading={
-                "Dr D.Y Patil Institute of Technology,Pimpri,Pune(411018)"
+                "Dr D.Y Patil Institute of Technology,Pimpri,Pune,Maharastra(411018)"
               }
               degree={"B.E (Electronics and Telecommunication)"}
               year={"2019-23"}
               percentage={"76.6%"}
             />
             <Education
-              heading={"Kendriya Vidyalya No.1 Kota Rajathan (324002)"}
+              heading={"Kendriya Vidyalya No.1, Kota Rajathan (324002)"}
               degree={"HSC"}
               year={"2017-18"}
               percentage={"80.40%"}
             />
             <Education
-              heading={"Kendriya Vidyalya No.1 Kota Rajathan (324002)"}
+              heading={"Kendriya Vidyalya No.1 ,Kota Rajathan (324002)"}
               degree={"SSC"}
               year={"2015-16"}
               percentage={"91.2%"}

@@ -52,7 +52,7 @@ const Projects = ({ subHeading }: Props) => {
                 "Game-hub a clone of rawg.io.",
                 "Using Axios for backend handling and making a reponsive game searching website.",
                 "Impelmenting the concept of state handling and hooks.",
-                "Skills:ReactJs,Typescript.",
+                "Skills:ReactJs and Typescript.",
               ]}
               img={frontend}
             />

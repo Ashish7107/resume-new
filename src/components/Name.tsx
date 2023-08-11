@@ -23,7 +23,8 @@ const Name = () => {
             </h2>
           </div>
 
-          <p>Electronics and Telecommunication Engineer(2019-2023)</p>
+          <p>Electronics and Telecommunication Engineer</p>
+          <p>(2019-2023)</p>
         </div>
       </div>
     </>

@@ -13,7 +13,7 @@ const Internship = ({ subHeading }: Props) => {
           <div className="col-12 g-2">
             <h4>{subHeading}</h4>
           </div>
-          <div className="col-md-6 g-2 ">
+          <div className="col-lg-6 g-2 ">
             <ProjectCard
               role={"https://gypsy-guy.com/"}
               heading={"GypsyGuy - Webmanager"}
@@ -21,12 +21,12 @@ const Internship = ({ subHeading }: Props) => {
               descriptions={[
                 "Website UI updation through Shopify and other plugins such as currency converter, product and review import, automatic email and bill generator",
                 " Managing social media platforms content and queries",
-                "Skills: HTML and CSS,JavaScript",
+                "Skills: HTML CSS and JavaScript",
               ]}
               img={gypsyguy}
             />
           </div>
-          <div className="col-md-6 g-2">
+          <div className="col-lg-6 g-2">
             <ProjectCard
               img={skates}
               heading={"DYPIT - Software Engineer"}
